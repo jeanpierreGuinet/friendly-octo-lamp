@@ -1,2 +1,3 @@
 # Attaquons le fichier2
 # En lui mettant du texte dedans
+# Et en essayant le merge
