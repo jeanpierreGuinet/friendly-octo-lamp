@@ -1,3 +1,4 @@
 # Attaquons le fichier2
 # En lui mettant du texte dedans
 # Message dans master avant merge
+# Et en essayant le merge
